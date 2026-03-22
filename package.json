@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/suryo811/prototypes#readme",
   "dependencies": {
+    "@temporalio/client": "^1.15.0",
+    "@temporalio/worker": "^1.15.0",
+    "@temporalio/workflow": "^1.15.0",
     "express": "^5.2.1"
   },
   "devDependencies": {
